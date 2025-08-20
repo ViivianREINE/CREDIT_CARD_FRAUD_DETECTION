@@ -27,10 +27,12 @@ This project is an **interactive fraud detection dashboard** built with **Stream
 ## 🖼️ Screenshots
 
 ### 🔍 Dashboard Preview
-![Dashboard](http://192.168.0.107:8501)
+![Dashboard](https://github.com/ViivianREINE/CREDIT_CARD_FRAUD_DETECTION/blob/main/Dashboard1.png)
+![Dashboard](https://github.com/ViivianREINE/CREDIT_CARD_FRAUD_DETECTION/blob/main/Dashboard2.png)
+
 
 ### 📊 Confusion Matrix
-![Confusion Matrix](http://192.168.0.107:8501/media/a2fe78d0f19275431bbdd5ef17e815910cc13edfe78d19571898c693.png)
+![Confusion Matrix](https://github.com/ViivianREINE/CREDIT_CARD_FRAUD_DETECTION/blob/main/CONFUSION_MATRIX.png)
 
 ---
 
