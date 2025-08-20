@@ -27,10 +27,10 @@ This project is an **interactive fraud detection dashboard** built with **Stream
 ## 🖼️ Screenshots
 
 ### 🔍 Dashboard Preview
-![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard+Preview)
+![Dashboard](http://192.168.0.107:8501)
 
 ### 📊 Confusion Matrix
-![Confusion Matrix](https://via.placeholder.com/800x400.png?text=Confusion+Matrix)
+![Confusion Matrix](http://192.168.0.107:8501/media/a2fe78d0f19275431bbdd5ef17e815910cc13edfe78d19571898c693.png)
 
 ---
 
