@@ -94,6 +94,10 @@ For small updates (typos, UI tweaks, docs), feel free to directly submit PRs.
 👨‍💻 Author
 
 Priyam Parashar
-💼 LinkedIn : https://www.linkedin.com/in/priyam-parashar-5b0b67273/
-🐙 GitHub : https://github.com/ViivianREINE
+
+
+     💼 LinkedIn : https://www.linkedin.com/in/priyam-parashar-5b0b67273/
+
+
+     🐙 GitHub : https://github.com/ViivianREINE
 
